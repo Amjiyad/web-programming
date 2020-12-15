@@ -15,6 +15,6 @@ A page that have 2 links.one for student login and the other for navigating to c
     
 # WORKFLOW OF GIT
 
-### creating a Repository
+### 1.creating a Repository
 - create a remote repo named web programming
 
