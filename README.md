@@ -15,6 +15,9 @@ A page that have 2 links.one for student login and the other for navigating to c
     
 # WORKFLOW OF GIT
 
-### 1. creating a Repository
+#### 1. creating a Repository
 - create a remote repo named web programming
-
+#### 2. create a local repository 
+- create a local repo on our computer with all our works.
+#### 3. initialize the git
+- use 'git init' command to initialize the git
