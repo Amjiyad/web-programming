@@ -28,7 +28,7 @@ A page that have 2 links.one for student login and the other for navigating to c
 - use `git status` to get get information about current situation.
 #### 6. Adding a remote Repo
 -  To add a new remote Repo use `git remote add` command 
--  `git remote add origin https://github.com/Amjiyad/web-programming.git
+-  `git remote add origin https://github.com/Amjiyad/web-programming.git`
 #### 7. git remote -v
 -  The command `git remote -v` lists the remotes associated with local repo
 #### 8. Adding a file to staging area
