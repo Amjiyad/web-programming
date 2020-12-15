@@ -20,4 +20,23 @@ A page that have 2 links.one for student login and the other for navigating to c
 #### 2. create a local repository 
 - create a local repo on our computer with all our works.
 #### 3. initialize the git
-- use `git init` command to initialize the git
+- use `git init` command to initialize the git.
+#### 4. setting git configurations
+- `git config --global user.name "Amjiyad"`
+- `git config --global user.email "amjiyad.19@gmail.com`
+#### 5. git status
+- use `git status` to get get information about current situation.
+#### 6. Adding a remote Repo
+-  To add a new remote Repo use `git remote add` command 
+-  `git remote add origin https://github.com/Amjiyad/web-programming.git
+#### 7. git remote -v
+-  The command `git remote -v` lists the remotes associated with local repo
+#### 8. Adding a file to staging area
+-  `git add .` command add files to git staging area.
+#### 9. git commit
+-   `git commit` command creates a new version and give a message describing the changes made.
+-   `git commit -m "first commit"`
+#### 10. Git push
+-  `git push`transfer commits from local repo to remote repo
+-  `git push origin master`
+
