@@ -37,6 +37,6 @@ A page that have 2 links.one for student login and the other for navigating to c
 -   `git commit` command creates a new version and give a message describing the changes made.
 -   `git commit -m "first commit"`
 #### 10. Git push
--  `git push`command transfer commits from local repo to remote repo
+-  `git push`command transfer commits from local repository to remote repositry
 -  `git push origin master`
 
