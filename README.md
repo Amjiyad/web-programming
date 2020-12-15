@@ -5,11 +5,16 @@ first page have navigation bar that navigates to various pages home,about,qualif
    Tags used: head,h1,style,header,nav,ul,li,body,img,title
 ## Second page
 personal details are displayed here.
-    tags used: head,title,body,h1,ul,li
+    Tags used: head,title,body,h1,ul,li
 ## Third page
 In this web page Educational qualifications are diplayed in table format.
-    tags used: head,title,body,h1,p,table,tr,th,td,
+    Tags used: head,title,body,h1,p,table,tr,th,td,
 ## fourth page
 A page that have 2 links.one for student login and the other for navigating to college website.
-    tags used: head,title,body,a,img
+    Tags used: head,title,body,a,img
+    
+# WORKFLOW OF GIT
+
+### creating a Repository
+- create a remote repo named web programming
 
