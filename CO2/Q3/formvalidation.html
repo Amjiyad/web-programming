@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <title>
+            validation
+        </title>
+    </head>
+    <script>
+        function validateform()
+        {    
+            var name,pass
+            name= document.frm.username.value;
+            pass= document.frm.pass.value;
+            if(name==""&&pass=="")
+            {
+                alert("enter username and password");
+                return false;
+                
+                
+            }
+
+            
+            else if(name=="")
+            {
+                alert("enter username");
+            }
+           
+            else(pass=="")
+            {
+                alert("enter password");
+            }
+            
+            
+
+
+        }
+
+
+    </script>
+    <body>
+        <form name="frm"  onsubmit="return validateform()">
+            <label>User name</label>
+            <input type="text" name="username" id="log">
+            <br><br>
+            <label>password</label>
+            <input type="password" name="pass" id="pass">
+            <br><br>
+            <input  type="submit" value="submit">
+
+        </form>
+        
+    </body>
+</html>
